@@ -1,4 +1,4 @@
-Welcome to the E03 - The Lincolnshire Poacher Emulator
+<h1>Welcome to the E03 - The Lincolnshire Poacher Emulator</h1>
 
 "When I was bound apprentice in famous Lincolnshire,<br>
 I serv'd my master truly, for nearly seven odd year,<br>
