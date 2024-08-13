@@ -1,16 +1,13 @@
 Welcome to the E03 - The Lincolnshire Poacher Emulator
 
-When I was bound apprentice in famous Lincolnshire,
-
-I serv'd my master truly, for nearly seven odd year,
-
-Till I took up to poaching, as you shall quickly hear.
-
-Oh, 'tis my delight on a shining night, in the season of the year.
+"When I was bound apprentice in famous Lincolnshire,<br>
+I serv'd my master truly, for nearly seven odd year,<br>
+Till I took up to poaching, as you shall quickly hear.<br>
+Oh, 'tis my delight on a shining night, in the season of the year."
 
 IMPORTANT WARNING: This emulator is for educational and entertainment purposes only.
 Never broadcast this emulator using any medium including radio frequencies,
-telegraphy, or similar, and do not use it as a means of encryption.
+telegraphy, or similar and it can't be used as a means of encryption.
 
 --------------------------------------------------------------------------------
 
@@ -28,3 +25,15 @@ This emulator was created as a bit of fun to cast light on the mysterious world 
 More information about numbers stations can be found at priyom.org.
 
 We hope you enjoy this emulator!
+
+--------------------------------------------------------------------------------
+
+To run this emulator you must download the package, extract and install python from https://www.python.org/downloads/
+
+After installation:
+
+run in terminal: pip install pygame
+
+then to run the emulator: python LincolnshirePoacher.py
+
+The emulator will also print out the message into a txt file called numbers_log.txt
