@@ -24,6 +24,8 @@ This emulator was created as a bit of fun to cast light on the mysterious world 
 
 More information about numbers stations can be found at priyom.org.
 
+Audio extracted from recordings from the Conet Project: https://soundcloud.com/the-conet-project/sets/the-conet-project
+
 We hope you enjoy this emulator!
 
 --------------------------------------------------------------------------------
