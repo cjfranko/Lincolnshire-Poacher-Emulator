@@ -1,8 +1,11 @@
 Welcome to the E03 - The Lincolnshire Poacher Emulator
 
 When I was bound apprentice in famous Lincolnshire,
+
 I serv'd my master truly, for nearly seven odd year,
+
 Till I took up to poaching, as you shall quickly hear.
+
 Oh, 'tis my delight on a shining night, in the season of the year.
 
 IMPORTANT WARNING: This emulator is for educational and entertainment purposes only.
